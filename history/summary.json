@@ -40,35 +40,39 @@
     "url": "https://apollo.lanofthedead.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/apollo.lanofthedead.xyz.ico",
     "slug": "peer-tube",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 239,
-    "timeDay": 268,
-    "timeWeek": 240,
-    "timeMonth": 239,
-    "timeYear": 239,
-    "dailyMinutesDown": {}
+    "time": 852,
+    "timeDay": 4240,
+    "timeWeek": 1237,
+    "timeMonth": 852,
+    "timeYear": 852,
+    "dailyMinutesDown": {
+      "2023-10-21": 0
+    }
   },
   {
     "name": "Pixelfed",
     "url": "https://kvasir.lanofthedead.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/kvasir.lanofthedead.xyz.ico",
     "slug": "pixelfed",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 353,
-    "timeDay": 401,
-    "timeWeek": 350,
-    "timeMonth": 353,
-    "timeYear": 353,
-    "dailyMinutesDown": {}
+    "time": 370,
+    "timeDay": 489,
+    "timeWeek": 378,
+    "timeMonth": 370,
+    "timeYear": 370,
+    "dailyMinutesDown": {
+      "2023-10-21": 0
+    }
   }
 ]
