@@ -60,17 +60,19 @@
     "url": "https://kvasir.lanofthedead.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/kvasir.lanofthedead.xyz.ico",
     "slug": "pixelfed",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 327,
-    "timeDay": 255,
-    "timeWeek": 281,
-    "timeMonth": 318,
-    "timeYear": 327,
-    "dailyMinutesDown": {}
+    "time": 335,
+    "timeDay": 524,
+    "timeWeek": 345,
+    "timeMonth": 333,
+    "timeYear": 335,
+    "dailyMinutesDown": {
+      "2023-12-02": 0
+    }
   }
 ]
