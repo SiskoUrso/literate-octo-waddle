@@ -4,18 +4,20 @@
     "url": "https://mastodon.lanofthedead.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/mastodon.lanofthedead.xyz.ico",
     "slug": "mastodon",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 327,
-    "timeDay": 632,
-    "timeWeek": 359,
-    "timeMonth": 316,
-    "timeYear": 327,
-    "dailyMinutesDown": {}
+    "time": 324,
+    "timeDay": 382,
+    "timeWeek": 331,
+    "timeMonth": 310,
+    "timeYear": 324,
+    "dailyMinutesDown": {
+      "2023-12-16": 0
+    }
   },
   {
     "name": "Lemmy",
