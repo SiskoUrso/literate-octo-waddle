@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 338,
-    "timeDay": 269,
-    "timeWeek": 308,
-    "timeMonth": 315,
-    "timeYear": 338,
+    "time": 337,
+    "timeDay": 195,
+    "timeWeek": 292,
+    "timeMonth": 313,
+    "timeYear": 337,
     "dailyMinutesDown": {
       "2023-12-16": 49
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/odin.lanofthedead.xyz.ico",
     "slug": "lemmy",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
-    "time": 836,
-    "timeDay": 1273,
-    "timeWeek": 587,
-    "timeMonth": 613,
-    "timeYear": 836,
+    "uptimeYear": "99.97%",
+    "time": 831,
+    "timeDay": 313,
+    "timeWeek": 568,
+    "timeMonth": 610,
+    "timeYear": 831,
     "dailyMinutesDown": {
       "2023-12-16": 38,
       "2023-10-26": 16
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 300,
-    "timeDay": 131,
-    "timeWeek": 188,
-    "timeMonth": 213,
-    "timeYear": 300,
+    "time": 298,
+    "timeDay": 143,
+    "timeWeek": 180,
+    "timeMonth": 212,
+    "timeYear": 298,
     "dailyMinutesDown": {
       "2023-12-16": 37
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 330,
-    "timeDay": 284,
-    "timeWeek": 352,
-    "timeMonth": 327,
-    "timeYear": 330,
+    "time": 329,
+    "timeDay": 193,
+    "timeWeek": 330,
+    "timeMonth": 323,
+    "timeYear": 329,
     "dailyMinutesDown": {
       "2023-12-16": 37
     }
