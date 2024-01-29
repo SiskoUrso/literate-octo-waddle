@@ -24,7 +24,7 @@
     "url": "https://odin.lanofthedead.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/odin.lanofthedead.xyz.ico",
     "slug": "lemmy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -36,6 +36,7 @@
     "timeMonth": 619,
     "timeYear": 818,
     "dailyMinutesDown": {
+      "2024-01-29": 0,
       "2023-12-16": 38,
       "2023-10-26": 16
     }
