@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 354,
-    "timeDay": 308,
-    "timeWeek": 298,
-    "timeMonth": 309,
+    "timeDay": 0,
+    "timeWeek": 300,
+    "timeMonth": 308,
     "timeYear": 354,
     "dailyMinutesDown": {
       "2023-12-16": 49
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 729,
-    "timeDay": 529,
-    "timeWeek": 481,
-    "timeMonth": 519,
+    "timeDay": 0,
+    "timeWeek": 495,
+    "timeMonth": 522,
     "timeYear": 729,
     "dailyMinutesDown": {
       "2023-12-16": 38,
@@ -47,17 +47,16 @@
     "slug": "peer-tube",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 273,
-    "timeDay": 246,
+    "timeDay": 234,
     "timeWeek": 241,
     "timeMonth": 225,
     "timeYear": 273,
     "dailyMinutesDown": {
-      "2024-03-11": 8,
       "2023-12-16": 37
     }
   },
@@ -68,17 +67,16 @@
     "slug": "pixelfed",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 334,
-    "timeDay": 402,
-    "timeWeek": 342,
-    "timeMonth": 345,
+    "timeDay": 406,
+    "timeWeek": 348,
+    "timeMonth": 346,
     "timeYear": 334,
     "dailyMinutesDown": {
-      "2024-03-11": 8,
       "2023-12-16": 37
     }
   }
