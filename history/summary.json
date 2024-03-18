@@ -24,18 +24,19 @@
     "url": "https://odin.lanofthedead.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/odin.lanofthedead.xyz.ico",
     "slug": "lemmy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 721,
-    "timeDay": 479,
-    "timeWeek": 490,
-    "timeMonth": 511,
-    "timeYear": 721,
+    "time": 717,
+    "timeDay": 279,
+    "timeWeek": 431,
+    "timeMonth": 496,
+    "timeYear": 717,
     "dailyMinutesDown": {
+      "2024-03-18": 0,
       "2023-12-16": 38,
       "2023-10-26": 16
     }
@@ -53,7 +54,7 @@
     "uptimeYear": "99.98%",
     "time": 272,
     "timeDay": 460,
-    "timeWeek": 254,
+    "timeWeek": 262,
     "timeMonth": 237,
     "timeYear": 272,
     "dailyMinutesDown": {
@@ -73,7 +74,7 @@
     "uptimeYear": "99.98%",
     "time": 333,
     "timeDay": 308,
-    "timeWeek": 334,
+    "timeWeek": 351,
     "timeMonth": 340,
     "timeYear": 333,
     "dailyMinutesDown": {
