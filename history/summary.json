@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mastodon.lanofthedead.xyz.ico",
     "slug": "mastodon",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 346,
-    "timeDay": 177,
-    "timeWeek": 321,
-    "timeMonth": 341,
-    "timeYear": 346,
+    "uptimeYear": "99.99%",
+    "time": 350,
+    "timeDay": 1262,
+    "timeWeek": 450,
+    "timeMonth": 373,
+    "timeYear": 350,
     "dailyMinutesDown": {
       "2023-12-16": 49
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 679,
-    "timeDay": 705,
-    "timeWeek": 530,
-    "timeMonth": 605,
-    "timeYear": 679,
+    "time": 678,
+    "timeDay": 526,
+    "timeWeek": 539,
+    "timeMonth": 607,
+    "timeYear": 678,
     "dailyMinutesDown": {
       "2023-12-16": 38,
       "2023-10-26": 16
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 282,
-    "timeDay": 363,
-    "timeWeek": 303,
-    "timeMonth": 277,
-    "timeYear": 282,
+    "time": 281,
+    "timeDay": 175,
+    "timeWeek": 293,
+    "timeMonth": 270,
+    "timeYear": 281,
     "dailyMinutesDown": {
       "2023-12-16": 37
     }
@@ -72,9 +72,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 359,
-    "timeDay": 285,
-    "timeWeek": 404,
-    "timeMonth": 474,
+    "timeDay": 380,
+    "timeWeek": 387,
+    "timeMonth": 394,
     "timeYear": 359,
     "dailyMinutesDown": {
       "2023-12-16": 37
