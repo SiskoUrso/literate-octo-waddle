@@ -1,7 +1,7 @@
 url: https://odin.lanofthedead.xyz
-status: up
-code: 200
-responseTime: 807
-lastUpdated: 2025-02-07T23:16:51.474Z
+status: down
+code: 502
+responseTime: 110
+lastUpdated: 2025-02-08T07:41:57.053Z
 startTime: 2023-10-10T04:34:37.889Z
 generator: Upptime <https://github.com/upptime/upptime>
