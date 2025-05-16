@@ -73,9 +73,9 @@
     "url": "https://apollo.lanofthedead.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/apollo.lanofthedead.xyz.ico",
     "slug": "peer-tube",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.85%",
@@ -85,6 +85,7 @@
     "timeMonth": 1294,
     "timeYear": 411,
     "dailyMinutesDown": {
+      "2025-05-16": 0,
       "2025-04-24": 22,
       "2025-03-27": 22,
       "2025-03-20": 42,
@@ -116,7 +117,7 @@
     "time": 466,
     "timeDay": 335,
     "timeWeek": 368,
-    "timeMonth": 776,
+    "timeMonth": 799,
     "timeYear": 488,
     "dailyMinutesDown": {
       "2025-04-29": 28,
