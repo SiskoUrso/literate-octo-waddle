@@ -4,7 +4,7 @@
     "url": "https://mastodon.lanofthedead.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/mastodon.lanofthedead.xyz.ico",
     "slug": "mastodon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 320,
     "timeYear": 625,
     "dailyMinutesDown": {
+      "2025-06-25": 0,
       "2025-05-31": 32,
       "2025-05-24": 171,
       "2025-05-23": 26,
@@ -47,7 +48,7 @@
     "time": 964,
     "timeDay": 808,
     "timeWeek": 546,
-    "timeMonth": 651,
+    "timeMonth": 656,
     "timeYear": 1092,
     "dailyMinutesDown": {
       "2025-06-01": 39,
