@@ -1,7 +1,7 @@
 url: https://mastodon.lanofthedead.xyz
-status: down
-code: 502
-responseTime: 510
-lastUpdated: 2025-07-13T18:50:26.018Z
+status: up
+code: 200
+responseTime: 1885
+lastUpdated: 2025-07-13T19:36:58.714Z
 startTime: 2023-10-10T04:34:37.097Z
 generator: Upptime <https://github.com/upptime/upptime>
